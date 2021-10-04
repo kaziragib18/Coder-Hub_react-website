@@ -1,0 +1,112 @@
+{
+      "courses": [
+            {
+                  "courseId": "1",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/85/fae0a03ff811e7972e7fa5f98f4f29/5.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+                  "info": "Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.",
+                  "name": "Python for Everybody",
+                  "type": "Guided project",
+                  "desc": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
+                  "level": "Beginner"
+            },
+            {
+                  "courseId": "2",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/42/b45be076f911e7a3133714ebc885f2/SDALogo-newOption.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Mindful Strategies for Quality Software. Think like an expert architect and create quality software using design patterns and principles.",
+                  "name": "Software Design and Architecture",
+                  "type": "Specialization",
+                  "desc": "In the Software Design and Architecture Specialization, you will learn how to apply design principles, patterns, and architectures to create reusable and flexible software applications and systems. You will learn how to express and document the design and architecture of a software system using a visual notation. Practical examples and opportunities to apply your knowledge will help you develop employable skills and relevant expertise in the software industry.",
+                  "level": "Beginner"
+            },
+            {
+                  "courseId": "3",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/0d/e2553478254970977ae6126a54d7af/GettyImages-172778145_600x600.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+                  "info": "Build Your Skills in JavaScript and jQuery. Start a journey to using JavaScript to become a programmer.",
+                  "name": "JavaScript for Beginners",
+                  "type": "Specialization",
+                  "desc": "This Specialization is intended for the learner with no previous programming experience or the career changer transitioning to software development. JavaScript is generally the first programming language you will need to learn and this Specialization will help you practice and build your skills through a gentle progression of modules and courses.",
+                  "level": "Intermidiate"
+            },
+            {
+                  "courseId": "4",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Build Complete Web and Hybrid Mobile Solutions. Master front-end web, hybrid mobile app and server-side development in three comprehensive courses.",
+                  "name": "Full-Stack Web Development with React",
+                  "type": "Specialization",
+                  "desc": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution.The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript.Ideally learners should complete the courses in the specified sequence.",
+                  "level": "Intermidiate"
+            },
+            {
+                  "courseId": "5",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5b/fd8764c30743bca34499cc80f23dfc/Project-1-Logo-1000x1000.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+                  "info": "Prepare these websites for publishing with Canva URL or URL shorteners. Showcase this hands-on experience in an interview.",
+                  "name": "Use Canva to Create Desktop and Mobile-friendly Web Pages",
+                  "type": "Guided project",
+                  "desc": " By the end of this project, you will be able to create a ready to publish Desktop friendly and  Mobile-friendly webpages  with the help of the Canva graphic design tool. These simple webpages can be independently published with help of Canva URL or URL shorteners. This course will include introduction to Canva, how to design Desktop and Mobile friendly webpages and linking these pages to Socail media channels and prepare these simple webpages for publishing or can be shared with the help of Canva URLs or URL shorteners.",
+                  "level": "Intermidiate"
+            },
+            {
+                  "courseId": "6",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/e2/c3dfb0ce6011e89a7a4913dc94a745/ux_micromasters_1x1.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Begin your journey in UX Research and Design . Gain a solid foundation in UX Research and Design to create great products and advance your career.",
+                  "name": "User Experience Research and Design",
+                  "type": "Guided project",
+                  "desc": "Integrate UX Research and UX Design to create great products through understanding user needs, rapidly generating prototypes, and evaluating design concepts. Learners will gain hands-on experience with taking a product from initial concept, through user research, ideation and refinement, formal analysis, prototyping, and user testing, applying perspectives and methods to ensure a great user experience at every step.",
+                  "level": "Intermidiate"
+            },
+            {
+                  "courseId": "7",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/87/4baf437c6840719574408b962297cf/Specialization-python-java_1200x1200.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+                  "info": "Boost Your Computer Programming Skills. With minimal previous exposure, learn two popular programming languages at an accelerated pace.",
+                  "name": "Introduction to Programming with Python and Java",
+                  "type": "Specialization",
+                  "desc": "This Specialization starts out by teaching basic concepts in Python and ramps up to more complex subjects such as object-oriented programming and data structures in Java. By the time learners complete this series of four courses, they will be able to write fully-functional programs in both Python and Java, two of the most well-known and frequently used programming languages in the world today.Introduction to Programming with Python and Java is for students and professionals who have minimal or no prior programming exposure. It’s for motivated learners who have experience with rigorous coursework, and are looking to gain a competitive edge in advancing their career.",
+                  "level": "Beginer"
+            },
+            {
+                  "courseId": "8",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/Duke_JavaProgrammingIntrotoSoftware_CM195522.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Explore a Career as a Software Engineer. Learn the basics of programming and software development",
+                  "name": "Java Programming and Software Engineering Fundamentals",
+                  "type": "Specialization",
+                  "desc": "Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs.",
+                  "level": "Beginner"
+            },
+            {
+                  "courseId": "9",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2a/34a150d9ad11e5bd22cb7d7d7686df/logo3.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Master Algorithmic Programming Techniques. Advance your Software Engineering or Data Science Career by Learning Algorithms through Programming and Puzzle Solving",
+                  "name": "Data Structures and Algorithms",
+                  "type": "Guided project",
+                  "desc": "The specialization contains two real-world projects: Big Networks and Genome Assembly. You will analyze both road networks and social networks and will learn how to compute the shortest route between New York and San Francisco 1000 times faster than the shortest path algorithms you learn in the standard Algorithms 101 course! Afterwards, you will learn how to assemble genomes from millions of short fragments of DNA and how assembly algorithms fuel recent developments in personalized medicine.",
+                  "level": "Intermidiate"
+            },
+            {
+                  "courseId": "10",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/17/6b66f0a7ea11e7a885e33e8374f520/software_development_lifecycle_logo_pexels_CC0.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+                  "info": "Launch Your Career in Software Development. Master techniques and best practices for traditional and agile software project management.",
+                  "name": "Software Development Lifecycle",
+                  "type": "Specialization",
+                  "desc": "This Specialization is designed for people who are new to software engineering. It's also for those who have already developed software, but wish to gain a deeper understanding of the underlying context and theory of software development practices.At the end of this Specialization, we expect learners to be able to: Build high-quality and secure software using SDLC methodologies such as agile, lean, and traditional waterfall. Analyze a software development team's SDLC methodology and make recommendations for improvements. Compare and contrast software development methodologies with respect to environmental, organizational, and product constraints.",
+                  "level": "Intermidiate"
+            },
+            {
+                  "courseId": "11",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/dc/8d50a48fff4964bb0929f2121e461c/Logotip.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Create an interactive user experience.. Learn the fundamentals of full stack web development in five comprehensive courses.",
+                  "name": "Responsive Website Development and Design",
+                  "type": "Guided project",
+                  "desc": "Responsive web design is all about creating the best user experience regardless of whether a user is accessing your site from a desktop computer, a mobile phone, or a tablet. This Specialisation covers the basics of modern full stack web development, from UX design to front-end coding to custom databases. You’ll build foundational skills in a full range of technologies, including HTML/CSS, Javascript, and MongoDB, and you’ll learn to implement a reactive, multi-user web application using the meteor.js framework. We’ll also touch on more advanced topics, such as APIs, data visualization, and animation. You will add several projects to your portfolio to demonstrate your skill and growth throughout this Specialisation. You will create web pages using basic elements to control layout and style, use responsive web design principles to take a site from wireframe to website, implement security features, and create collaborative multi-user experiences. Just like any professional full stack web developer, you will build accessibility and usability into your responsive websites.",
+                  "level": "Beginner"
+            },
+            {
+                  "courseId": "12",
+                  "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/07/1d85e07ec211e78ea8bdfc9d4b2d48/redes-informaticas.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+                  "info": "Launch your career in computer network & security. Provide an introduction to fundamental network architecture concepts and network design alternatives",
+                  "name": "Computer Communications",
+                  "type": "Specialization",
+                  "desc": "This specialization is developed for seniors and fresh graduate students to understand fundamental network architecture concepts and their impacts on cyber security, to develop skills and techniques required for network protocol design, and prepare for a future of constant change through exposure to network design alternatives. Students will require a prior knowledge of C programming, an understanding of math probability and a computer science background is a plus.",
+                  "level": "Intermidiate"
+            }
+      ]
+}
