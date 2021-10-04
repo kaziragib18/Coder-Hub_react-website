@@ -5,27 +5,29 @@ import './Contact.css';
 
 const Contact = () => {
       return (
-            <div className="p-4">
-                  <NavBar></NavBar>
+            <div>
+                  <div className="p-4">
+                        <NavBar></NavBar>
 
-                  <div className="col-md-6 d-flex">
+                        <div className="col-md-6 d-flex">
 
-                        <div className="col-md-12">
-                              <h2 className="pt-5">Need help?<hr /></h2>
-                              <p>If you’re a learner on the Coursera platform and have questions or need technical assistance, please visit our Learner Help Center for platform tutorials, FAQs or to chat with a member of our Customer Support team. You can also browse our most popular support topics:</p>
-                              <ul>
-                                    <li>Account Setup</li>
-                                    <li>How to enroll in a course</li>
-                                    <li>Downloading videoes</li>
-                                    <li>Notifications</li>
+                              <div className="col-md-12">
+                                    <h2 className="pt-5 mt-5 mb-4">Need help?<hr /></h2>
+                                    <p>If you’re a learner on the Coursera platform and have questions or need technical assistance, please visit our Learner Help Center for platform tutorials, FAQs or to chat with a member of our Customer Support team. You can also browse our most popular support topics:</p>
+                                    <ul>
+                                          <li>Account Setup</li>
+                                          <li>How to enroll in a course</li>
+                                          <li>Downloading videoes</li>
+                                          <li>Notifications</li>
 
-                              </ul>
-                              <p className="text-start">contact us <span className="text-primary">coderhub2021@gmail.com</span> for any quries </p>
+                                    </ul>
+                                    <p className="text-start pb-5">contact us <span className="text-primary">coderhub2021@gmail.com</span> for any quries </p>
+                              </div>
+                              <img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/4752/direct/1589229298650-FAQ%20Page.png" alt="" />
                         </div>
-                        <img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/4752/direct/1589229298650-FAQ%20Page.png" alt="" />
+
+
                   </div>
-
-
                   <Footer></Footer>
             </div>
       );
