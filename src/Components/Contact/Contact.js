@@ -17,7 +17,7 @@ const Contact = () => {
                                     <ul>
                                           <li>Account Setup</li>
                                           <li>How to enroll in a course</li>
-                                          <li>Downloading videoes</li>
+                                          <li>Downloading videos</li>
                                           <li>Notifications</li>
 
                                     </ul>
