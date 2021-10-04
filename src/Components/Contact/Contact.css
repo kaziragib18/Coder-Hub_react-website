@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+
+.contact__div{
+      border: 2px solid gray;
+      padding: 70px;
+
+}
+li{
+      text-decoration: none;
+      text-align: start;
+}
+p{
+      text-decoration: none;  
+}

@@ -1,0 +1,13 @@
+*{
+      font-family: poppins, sans-serif;
+}
+.about__img{
+      padding-bottom: 40px;
+}
+.story__img{
+      width: 530px;
+      margin-left: 0px;
+}
+.story__div{
+      padding-left: 80px;
+}

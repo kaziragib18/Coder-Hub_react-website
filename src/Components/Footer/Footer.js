@@ -1,4 +1,4 @@
-import { faMapMarkedAlt, faPhoneVolume, faDesktop, faSchool, faAddressCard, faDice } from '@fortawesome/free-solid-svg-icons';
+import { faMapMarkedAlt, faPhoneVolume, faLocationArrow, faUniversity, faBook, faGlobe } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import './Footer.css'
@@ -14,28 +14,26 @@ const Footer = () => {
                                                 <h1 className="fst-italic">CODER HUB</h1>
                                                 <div className="icons-container d-flex text-center ">
                                                       <div className="icon">
-                                                            <FontAwesomeIcon icon={faDesktop} />
+                                                            <FontAwesomeIcon icon={faLocationArrow} />
                                                       </div>
                                                       <div className="icon">
-                                                            <FontAwesomeIcon icon={faSchool} />
+                                                            <FontAwesomeIcon icon={faUniversity} />
                                                       </div>
                                                       <div className="icon">
-                                                            <FontAwesomeIcon icon={faAddressCard} />
+                                                            <FontAwesomeIcon icon={faGlobe} />
                                                       </div>
                                                       <div className="icon">
-                                                            <FontAwesomeIcon icon={faDice} />
+                                                            <FontAwesomeIcon icon={faBook} />
                                                       </div>
                                                 </div>
                                                 <p className="mt-4 ">
                                                       <small>
-                                                            *These statements have not been evaluated by the Food and
-                                                            Drug Administration. These products are not intended to
-                                                            diagnose.
+                                                      Coder hub is the a online learning platform that offers anyone, anywhere access to online courses.
                                                       </small>
                                                 </p>
 
                                                 <p className="mt-5">
-                                                      <small>kaziragib18 © All rights reserved.</small>
+                                                      <small>Coder Hub © All rights reserved.</small>
                                                 </p>
                                           </div>
                                     </div>
@@ -62,6 +60,7 @@ const Footer = () => {
                                                       <div className="foter-phone-icon">
                                                             <FontAwesomeIcon icon={faPhoneVolume} />
                                                       </div>
+
                                                       <div>
                                                             <h5> +8801949434546</h5>
                                                       </div>

@@ -5,10 +5,15 @@
       padding: 30px;
     }
     .cart{
-      padding: 10px;
+      padding: 20px;
       height: auto;
+      width: 95%;
       border: 1px solid gray;
-      margin-top: 10px;
+      border-radius: 20px;
+      margin-top: 20px;
+      margin-left: 10px;
+      font-size: 14px;
+     
     
       /* background-color: #000; */
     }

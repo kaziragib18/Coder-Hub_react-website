@@ -1,7 +1,7 @@
 .header {
       background-image: url("https://image.freepik.com/free-photo/professional-programmer-working-late-dark-office_1098-18705.jpg"),
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
-      height: 680px;
+      height: 600px;
       width: auto;
       /* border: 1px solid red; */
       background-blend-mode: overlay;

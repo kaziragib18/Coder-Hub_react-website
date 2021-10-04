@@ -3,15 +3,15 @@ import './Service.css'
 const Service = () => {
       return (
             <div className="service__container">
-                  <div className="Service__title">
-                        <h2 className="title">University and college students, learn job-ready skills for free with Coder Hub</h2>
+                  <div className="">
+                        <h3 className="title">University and college students, learn job-ready skills for free with Coder Hub</h3>
                   </div>
 
                   <div className="service__card">
                         <div className='row'>
                               <div className="col-md-4">
                                     <div className="card">
-                                          <div className="">
+                                          <div className="logo__img">
                                                 <img className="logo__image w-25" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/coursera_plus/landing_page/university.png?auto=format%2Ccompress&dpr=1&w=&h=55" alt="" />
                                           </div>
                                           <div className="text__area">
@@ -23,7 +23,7 @@ const Service = () => {
                               </div>
                               <div className="col-md-4">
                                     <div className="card">
-                                          <div className="logo__image">
+                                          <div className="logo__img">
                                                 <img className="w-25" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/coursera_plus/landing_page/head.png?auto=format%2Ccompress&dpr=1&w=&h=55" alt="" />
                                           </div>
                                           <div className="text__area">
@@ -35,7 +35,7 @@ const Service = () => {
                               </div>
                               <div className="col-md-4">
                                     <div className="card">
-                                          <div className="logo__image">
+                                          <div className="logo__img">
                                                 <img className="w-25" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/coursera_plus/landing_page/certificate.png?auto=format%2Ccompress&dpr=1&w=&h=40" alt="" />
                                           </div>
                                           <div className="text__area">

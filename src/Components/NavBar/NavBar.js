@@ -20,7 +20,7 @@ const NavBar = () => {
                 <NavLink to="/home"
                   activeStyle={{
                     fontWeight: "bold",
-                    color: "#660c69;"
+                    color: "#41114d;"
                   }}
                   className="items">
                   <li>Home</li>
@@ -28,7 +28,7 @@ const NavBar = () => {
 
                 <NavLink to="/course" activeStyle={{
                   fontWeight: "bold",
-                  color: "#660c69;"
+                  color: "#41114d;"
                 }}
                   className="items">
                   <li>Course</li>
@@ -37,7 +37,7 @@ const NavBar = () => {
                 <NavLink to="/about"
                   activeStyle={{
                     fontWeight: "bold",
-                    color: "#660c69;"
+                    color: "#41114d;"
                   }}
                   className="items">
                   <li>About us</li>
@@ -46,7 +46,7 @@ const NavBar = () => {
                 <NavLink to="contact"
                   activeStyle={{
                     fontWeight: "bold",
-                    color: "#660c69;"
+                    color: "#41114d;"
                   }}
                   className="items">
                   <li>Contact us</li>

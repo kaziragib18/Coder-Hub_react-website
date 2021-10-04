@@ -5,7 +5,7 @@ import './Header.css';
 
 const Header = () => {
       return (
-            <div className="header-container ">
+            <div className="header__container">
                   <div className="">
                         <div className="row d-flex header align-items-center justify-content-center">
                               <NavBar></NavBar>
