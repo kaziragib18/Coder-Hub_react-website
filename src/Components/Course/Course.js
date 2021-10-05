@@ -27,8 +27,8 @@ const Course = () => {
                               {courses?.map((course) => (
                                     <div className="col-md-4">
                                           <div className="cart">
-                                                <div className="logo-image rounded">
-                                                      <img className="w-50" src={course.img} alt="" />
+                                                <div>
+                                                      <img className="logo-image w-50 " src={course.img} alt="" />
                                                 </div><hr />
                                                 <div className="text-area p-2">
                                                       <h5 className="fw-bold">{course.name}</h5>

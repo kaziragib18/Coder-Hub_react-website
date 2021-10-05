@@ -4,9 +4,9 @@ const Service = () => {
       return (
             <div className="service__container">
                   <div className="">
-                        <h3 className="title">University and college students, learn job-ready skills for free with Coder Hub</h3>
+                        <h5 className="title">University and college students, learn job-ready skills for free with Coder Hub.<br/>Here are all the services we provide to our users: </h5>
                   </div>
-
+                  {/* Three service card added in home  */}
                   <div className="service__card">
                         <div className='row'>
                               <div className="col-md-4">

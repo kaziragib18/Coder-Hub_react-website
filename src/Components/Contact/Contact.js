@@ -8,9 +8,8 @@ const Contact = () => {
             <div>
                   <div className="p-4">
                         <NavBar></NavBar>
-
                         <div className="col-md-6 d-flex">
-
+                        {/* Simple contact page  */}
                               <div className="col-md-12">
                                     <h2 className="pt-5 mt-5 mb-4">Need help?<hr /></h2>
                                     <p>If you’re a learner on the Coursera platform and have questions or need technical assistance, please visit our Learner Help Center for platform tutorials, FAQs or to chat with a member of our Customer Support team. You can also browse our most popular support topics:</p>

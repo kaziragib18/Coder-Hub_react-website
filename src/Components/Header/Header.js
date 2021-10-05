@@ -16,6 +16,7 @@ const Header = () => {
                                     <p className="text-white text-center mt-3">
                                           Start Learning with free Courses, for professional development report career benefits like getting a promotion, a raise, or starting a new career.
                                     </p>
+                                    {/* AboutUS page link added on button  */}
                                     <Link to='/about'>
                                           <button className="mt-3 header__button">About Us</button>
                                     </Link>

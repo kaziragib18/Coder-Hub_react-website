@@ -1,25 +1,17 @@
-.all-teams {
-      padding: 50px;
-    }
-    .search-team {
-      padding: 30px;
-    }
-    .cart{
-      padding: 20px;
-      height: auto;
-      width: 95%;
-      border: 1px solid gray;
-      border-radius: 20px;
-      margin-top: 20px;
-      margin-left: 10px;
-      font-size: 14px;
-     
-    
-      /* background-color: #000; */
-    }
-    .text-area {
-      text-align: center;
-      /* background-color: rgb(131, 124, 124); */
-     
-    }
-    
+.cart{
+    padding: 20px;
+    height: auto;
+    width: 95%;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 14px; 
+}
+.text-area {
+    text-align: center;
+}
+
+.logo-image{
+  border-radius: 20px;
+}
