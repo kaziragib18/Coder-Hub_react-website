@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { NavLink,  } from "react-router-dom";
 import logo from "../..//images/logo/logo-NEW.png";
 import "./NavBar.css";
 
@@ -10,7 +10,9 @@ const NavBar = () => {
           <div className="col-md-2">
             <div className="logo-img">
               {/* site logo adeed */}
+              <NavLink to='/home'>
               <img className="w-100" src={logo} alt="" />
+              </NavLink>
             </div>
           </div>
           <div className="col-md-10">
