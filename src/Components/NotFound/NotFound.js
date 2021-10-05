@@ -5,7 +5,9 @@ const NotFound = () => {
       return (
             <div className="p-3">
             <NavBar></NavBar>
-            <h4 className="text-danger">404 page not found!</h4>
+            <div>
+                  <img className="" src="https://cdn.dribbble.com/users/718859/screenshots/3267029/jisunpark_404-error.gif" alt="" />
+            </div>
       </div>
       );
 };

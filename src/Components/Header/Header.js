@@ -6,9 +6,9 @@ import './Header.css';
 const Header = () => {
       return (
             <div className="header__container">
-                  <div className="">
+                  <div>
                         <div className="row d-flex header align-items-center justify-content-center">
-                              <NavBar></NavBar>
+                             <div ><NavBar></NavBar></div> 
                               <div className="col-md-6">
                                     <h1 className="header__title">
                                           Learn To Code<br /> Learn Without Limits
